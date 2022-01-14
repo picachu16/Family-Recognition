@@ -1,0 +1,12 @@
+body{
+    background:rgb(204, 0, 255);
+}
+.heading{
+    width:80%;
+    font-size:22px;
+}
+#camera{
+    border:2px dashed rgb(225, 164, 65);
+    width:350px;
+    height:300px;
+}
